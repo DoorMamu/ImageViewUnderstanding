@@ -1,0 +1,4 @@
+#Wed Aug 21 13:51:19 IST 2019
+base.0=F\:\\Mukund\\AndroidProjects\\ImageViewUnderstanding\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
